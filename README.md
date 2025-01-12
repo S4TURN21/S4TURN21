@@ -7,5 +7,6 @@ languages: C#, Python, Java, XAML, TS, JS, HTML, CSS<br>
 frameworks: .NET, WPF, WinForms, ASP .NET, PostgreSQL, Angular<br>
 software: Visual Studio 2022, Visual Studio Code, Git, pgAdmin, Figma<br>
 <br>
+Telegram: <a href="https://t.me/s4_turn">@S4_TURN</a><br>
 Mail: <a href="mailto:s4turn21@gmail.com">s4turn21@gmail.com</a><br>
 Discord: <a href="https://discordapp.com/users/414851357724639235/">S4TURN</a>
